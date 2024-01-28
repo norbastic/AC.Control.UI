@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AC.Control.UI", "AC.Control.UI\AC.Control.UI.csproj", "{0EB0AE9D-B695-4EFF-8A4A-BED7D685A75F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB0AE9D-B695-4EFF-8A4A-BED7D685A75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB0AE9D-B695-4EFF-8A4A-BED7D685A75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB0AE9D-B695-4EFF-8A4A-BED7D685A75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB0AE9D-B695-4EFF-8A4A-BED7D685A75F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
